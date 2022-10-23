@@ -12,6 +12,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         val a="Hello, friend"
-        val b="Hello first branch"
+        val b="Are you sure"
     }
 }
